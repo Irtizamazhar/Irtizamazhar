@@ -6,15 +6,15 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Irtizamazhar&show_icons=true&theme=radical" />
+![Irtiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irtizamazhar&show_icons=true&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Irtizamazhar&layout=compact&theme=radical" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irtizamazhar&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Irtizamazhar&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Irtizamazhar&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
